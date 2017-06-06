@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DaumAPITest</string>
+    <string name="APIKEY">a0c3c96146f92295371b9e81ff97de15</string>
+</resources>
